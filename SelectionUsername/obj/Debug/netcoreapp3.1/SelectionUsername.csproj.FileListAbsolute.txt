@@ -1,0 +1,11 @@
+C:\Users\103096811\FirstProg2\SelectionUsername\obj\Debug\netcoreapp3.1\SelectionUsername.csprojAssemblyReference.cache
+C:\Users\103096811\FirstProg2\SelectionUsername\obj\Debug\netcoreapp3.1\SelectionUsername.AssemblyInfoInputs.cache
+C:\Users\103096811\FirstProg2\SelectionUsername\obj\Debug\netcoreapp3.1\SelectionUsername.AssemblyInfo.cs
+C:\Users\103096811\FirstProg2\SelectionUsername\bin\Debug\netcoreapp3.1\SelectionUsername.exe
+C:\Users\103096811\FirstProg2\SelectionUsername\bin\Debug\netcoreapp3.1\SelectionUsername.deps.json
+C:\Users\103096811\FirstProg2\SelectionUsername\bin\Debug\netcoreapp3.1\SelectionUsername.runtimeconfig.json
+C:\Users\103096811\FirstProg2\SelectionUsername\bin\Debug\netcoreapp3.1\SelectionUsername.runtimeconfig.dev.json
+C:\Users\103096811\FirstProg2\SelectionUsername\bin\Debug\netcoreapp3.1\SelectionUsername.dll
+C:\Users\103096811\FirstProg2\SelectionUsername\bin\Debug\netcoreapp3.1\SelectionUsername.pdb
+C:\Users\103096811\FirstProg2\SelectionUsername\obj\Debug\netcoreapp3.1\SelectionUsername.dll
+C:\Users\103096811\FirstProg2\SelectionUsername\obj\Debug\netcoreapp3.1\SelectionUsername.pdb
