@@ -6,16 +6,28 @@ namespace IntroProgSelection
     {
         static void Main(string[] args)
         {
-            int age = 19;
+            
             int legalAge = 18;
-            if(age >= legalAge)
+            int schoolAge = 16;
+
+            Console.WriteLine("How old are you?");
+            int age = Convert.ToInt32(Console.ReadLine());
+
+            if(age >= legalAge && age >= schoolAge)
             {
-               Console.WriteLine("You are permitted to get turnt");
+               Console.WriteLine("You are permitted to get turnt.");
+               Console.WriteLine("You can leave school, if you haven't already.");
+            }
+            else if(age >= schoolAge)
+            {
+                Console.WriteLine("You are forbidden from drinking.");
+                Console.WriteLine("You can leave school.");
             }
             else
             {
-                Console.WriteLine("You are forbidden from drinking");
+                Console.WriteLine("You cannot drink OR leave school.");
             }
+
         }
     }
 }

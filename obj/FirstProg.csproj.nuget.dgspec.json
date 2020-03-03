@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\103096811\\Documents\\IntroProgramming\\FirstProg\\FirstProg.csproj": {}
+    "C:\\Users\\103096811\\FirstProg2\\FirstProg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\103096811\\Documents\\IntroProgramming\\FirstProg\\FirstProg.csproj": {
+    "C:\\Users\\103096811\\FirstProg2\\FirstProg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\103096811\\Documents\\IntroProgramming\\FirstProg\\FirstProg.csproj",
+        "projectUniqueName": "C:\\Users\\103096811\\FirstProg2\\FirstProg.csproj",
         "projectName": "FirstProg",
-        "projectPath": "C:\\Users\\103096811\\Documents\\IntroProgramming\\FirstProg\\FirstProg.csproj",
+        "projectPath": "C:\\Users\\103096811\\FirstProg2\\FirstProg.csproj",
         "packagesPath": "C:\\Users\\103096811\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\103096811\\Documents\\IntroProgramming\\FirstProg\\obj\\",
+        "outputPath": "C:\\Users\\103096811\\FirstProg2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
