@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CoolStuff\\Swinburne\\FirstProg2\\IntroProgSelection\\IntroProgSelection.csproj": {}
+    "D:\\CoolStuff\\Swinburne\\FirstProg2\\FirstProg2.csproj": {}
   },
   "projects": {
-    "D:\\CoolStuff\\Swinburne\\FirstProg2\\IntroProgSelection\\IntroProgSelection.csproj": {
+    "D:\\CoolStuff\\Swinburne\\FirstProg2\\FirstProg2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CoolStuff\\Swinburne\\FirstProg2\\IntroProgSelection\\IntroProgSelection.csproj",
-        "projectName": "IntroProgSelection",
-        "projectPath": "D:\\CoolStuff\\Swinburne\\FirstProg2\\IntroProgSelection\\IntroProgSelection.csproj",
+        "projectUniqueName": "D:\\CoolStuff\\Swinburne\\FirstProg2\\FirstProg2.csproj",
+        "projectName": "FirstProg2",
+        "projectPath": "D:\\CoolStuff\\Swinburne\\FirstProg2\\FirstProg2.csproj",
         "packagesPath": "C:\\Users\\HillaryClinton(ISIS)\\.nuget\\packages\\",
-        "outputPath": "D:\\CoolStuff\\Swinburne\\FirstProg2\\IntroProgSelection\\obj\\",
+        "outputPath": "D:\\CoolStuff\\Swinburne\\FirstProg2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HillaryClinton(ISIS)\\AppData\\Roaming\\NuGet\\NuGet.Config"

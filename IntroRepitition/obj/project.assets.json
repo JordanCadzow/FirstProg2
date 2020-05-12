@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CoolStuff\\Swinburne\\FirstProg2\\FirstProg2.csproj",
-      "projectName": "FirstProg2",
-      "projectPath": "D:\\CoolStuff\\Swinburne\\FirstProg2\\FirstProg2.csproj",
+      "projectUniqueName": "D:\\CoolStuff\\Swinburne\\FirstProg2\\IntroArrays\\IntroArrays.csproj",
+      "projectName": "IntroArrays",
+      "projectPath": "D:\\CoolStuff\\Swinburne\\FirstProg2\\IntroArrays\\IntroArrays.csproj",
       "packagesPath": "C:\\Users\\HillaryClinton(ISIS)\\.nuget\\packages\\",
-      "outputPath": "D:\\CoolStuff\\Swinburne\\FirstProg2\\obj\\",
+      "outputPath": "D:\\CoolStuff\\Swinburne\\FirstProg2\\IntroArrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HillaryClinton(ISIS)\\AppData\\Roaming\\NuGet\\NuGet.Config"

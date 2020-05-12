@@ -1,0 +1,13 @@
+D:\CoolStuff\Swinburne\FirstProg2\IntroArrays\bin\Debug\netcoreapp3.1\IntroArrays.exe
+D:\CoolStuff\Swinburne\FirstProg2\IntroArrays\bin\Debug\netcoreapp3.1\IntroArrays.deps.json
+D:\CoolStuff\Swinburne\FirstProg2\IntroArrays\bin\Debug\netcoreapp3.1\IntroArrays.runtimeconfig.json
+D:\CoolStuff\Swinburne\FirstProg2\IntroArrays\bin\Debug\netcoreapp3.1\IntroArrays.runtimeconfig.dev.json
+D:\CoolStuff\Swinburne\FirstProg2\IntroArrays\bin\Debug\netcoreapp3.1\IntroArrays.dll
+D:\CoolStuff\Swinburne\FirstProg2\IntroArrays\bin\Debug\netcoreapp3.1\IntroArrays.pdb
+D:\CoolStuff\Swinburne\FirstProg2\IntroArrays\obj\Debug\netcoreapp3.1\IntroArrays.csprojAssemblyReference.cache
+D:\CoolStuff\Swinburne\FirstProg2\IntroArrays\obj\Debug\netcoreapp3.1\IntroArrays.csproj.CoreCompileInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\IntroArrays\obj\Debug\netcoreapp3.1\IntroArrays.AssemblyInfoInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\IntroArrays\obj\Debug\netcoreapp3.1\IntroArrays.AssemblyInfo.cs
+D:\CoolStuff\Swinburne\FirstProg2\IntroArrays\obj\Debug\netcoreapp3.1\IntroArrays.dll
+D:\CoolStuff\Swinburne\FirstProg2\IntroArrays\obj\Debug\netcoreapp3.1\IntroArrays.pdb
+D:\CoolStuff\Swinburne\FirstProg2\IntroArrays\obj\Debug\netcoreapp3.1\IntroArrays.genruntimeconfig.cache

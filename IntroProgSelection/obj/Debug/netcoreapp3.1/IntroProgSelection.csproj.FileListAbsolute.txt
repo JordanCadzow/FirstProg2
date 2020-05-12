@@ -9,3 +9,16 @@ C:\Users\103096811\FirstProg2\IntroProgSelection\bin\Debug\netcoreapp3.1\IntroPr
 C:\Users\103096811\FirstProg2\IntroProgSelection\bin\Debug\netcoreapp3.1\IntroProgSelection.pdb
 C:\Users\103096811\FirstProg2\IntroProgSelection\obj\Debug\netcoreapp3.1\IntroProgSelection.dll
 C:\Users\103096811\FirstProg2\IntroProgSelection\obj\Debug\netcoreapp3.1\IntroProgSelection.pdb
+D:\CoolStuff\Swinburne\FirstProg2\IntroProgSelection\bin\Debug\netcoreapp3.1\IntroProgSelection.exe
+D:\CoolStuff\Swinburne\FirstProg2\IntroProgSelection\bin\Debug\netcoreapp3.1\IntroProgSelection.deps.json
+D:\CoolStuff\Swinburne\FirstProg2\IntroProgSelection\bin\Debug\netcoreapp3.1\IntroProgSelection.runtimeconfig.json
+D:\CoolStuff\Swinburne\FirstProg2\IntroProgSelection\bin\Debug\netcoreapp3.1\IntroProgSelection.runtimeconfig.dev.json
+D:\CoolStuff\Swinburne\FirstProg2\IntroProgSelection\bin\Debug\netcoreapp3.1\IntroProgSelection.dll
+D:\CoolStuff\Swinburne\FirstProg2\IntroProgSelection\bin\Debug\netcoreapp3.1\IntroProgSelection.pdb
+D:\CoolStuff\Swinburne\FirstProg2\IntroProgSelection\obj\Debug\netcoreapp3.1\IntroProgSelection.csprojAssemblyReference.cache
+D:\CoolStuff\Swinburne\FirstProg2\IntroProgSelection\obj\Debug\netcoreapp3.1\IntroProgSelection.csproj.CoreCompileInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\IntroProgSelection\obj\Debug\netcoreapp3.1\IntroProgSelection.AssemblyInfoInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\IntroProgSelection\obj\Debug\netcoreapp3.1\IntroProgSelection.AssemblyInfo.cs
+D:\CoolStuff\Swinburne\FirstProg2\IntroProgSelection\obj\Debug\netcoreapp3.1\IntroProgSelection.dll
+D:\CoolStuff\Swinburne\FirstProg2\IntroProgSelection\obj\Debug\netcoreapp3.1\IntroProgSelection.pdb
+D:\CoolStuff\Swinburne\FirstProg2\IntroProgSelection\obj\Debug\netcoreapp3.1\IntroProgSelection.genruntimeconfig.cache
