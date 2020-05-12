@@ -1,0 +1,13 @@
+D:\CoolStuff\Swinburne\FirstProg2\ArraysListsTasks\Task1-1\obj\Debug\netcoreapp3.1\Task1-1.csprojAssemblyReference.cache
+D:\CoolStuff\Swinburne\FirstProg2\ArraysListsTasks\Task1-1\obj\Debug\netcoreapp3.1\Task1-1.csproj.CoreCompileInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\ArraysListsTasks\Task1-1\obj\Debug\netcoreapp3.1\Task1-1.AssemblyInfoInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\ArraysListsTasks\Task1-1\obj\Debug\netcoreapp3.1\Task1-1.AssemblyInfo.cs
+D:\CoolStuff\Swinburne\FirstProg2\ArraysListsTasks\Task1-1\bin\Debug\netcoreapp3.1\Task1-1.exe
+D:\CoolStuff\Swinburne\FirstProg2\ArraysListsTasks\Task1-1\bin\Debug\netcoreapp3.1\Task1-1.deps.json
+D:\CoolStuff\Swinburne\FirstProg2\ArraysListsTasks\Task1-1\bin\Debug\netcoreapp3.1\Task1-1.runtimeconfig.json
+D:\CoolStuff\Swinburne\FirstProg2\ArraysListsTasks\Task1-1\bin\Debug\netcoreapp3.1\Task1-1.runtimeconfig.dev.json
+D:\CoolStuff\Swinburne\FirstProg2\ArraysListsTasks\Task1-1\bin\Debug\netcoreapp3.1\Task1-1.dll
+D:\CoolStuff\Swinburne\FirstProg2\ArraysListsTasks\Task1-1\bin\Debug\netcoreapp3.1\Task1-1.pdb
+D:\CoolStuff\Swinburne\FirstProg2\ArraysListsTasks\Task1-1\obj\Debug\netcoreapp3.1\Task1-1.dll
+D:\CoolStuff\Swinburne\FirstProg2\ArraysListsTasks\Task1-1\obj\Debug\netcoreapp3.1\Task1-1.pdb
+D:\CoolStuff\Swinburne\FirstProg2\ArraysListsTasks\Task1-1\obj\Debug\netcoreapp3.1\Task1-1.genruntimeconfig.cache

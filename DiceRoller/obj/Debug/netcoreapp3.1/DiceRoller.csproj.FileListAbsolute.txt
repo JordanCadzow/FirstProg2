@@ -1,0 +1,13 @@
+D:\CoolStuff\Swinburne\FirstProg2\DiceRoller\obj\Debug\netcoreapp3.1\DiceRoller.csprojAssemblyReference.cache
+D:\CoolStuff\Swinburne\FirstProg2\DiceRoller\obj\Debug\netcoreapp3.1\DiceRoller.csproj.CoreCompileInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\DiceRoller\obj\Debug\netcoreapp3.1\DiceRoller.AssemblyInfoInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\DiceRoller\obj\Debug\netcoreapp3.1\DiceRoller.AssemblyInfo.cs
+D:\CoolStuff\Swinburne\FirstProg2\DiceRoller\bin\Debug\netcoreapp3.1\DiceRoller.exe
+D:\CoolStuff\Swinburne\FirstProg2\DiceRoller\bin\Debug\netcoreapp3.1\DiceRoller.deps.json
+D:\CoolStuff\Swinburne\FirstProg2\DiceRoller\bin\Debug\netcoreapp3.1\DiceRoller.runtimeconfig.json
+D:\CoolStuff\Swinburne\FirstProg2\DiceRoller\bin\Debug\netcoreapp3.1\DiceRoller.runtimeconfig.dev.json
+D:\CoolStuff\Swinburne\FirstProg2\DiceRoller\bin\Debug\netcoreapp3.1\DiceRoller.dll
+D:\CoolStuff\Swinburne\FirstProg2\DiceRoller\bin\Debug\netcoreapp3.1\DiceRoller.pdb
+D:\CoolStuff\Swinburne\FirstProg2\DiceRoller\obj\Debug\netcoreapp3.1\DiceRoller.dll
+D:\CoolStuff\Swinburne\FirstProg2\DiceRoller\obj\Debug\netcoreapp3.1\DiceRoller.pdb
+D:\CoolStuff\Swinburne\FirstProg2\DiceRoller\obj\Debug\netcoreapp3.1\DiceRoller.genruntimeconfig.cache
