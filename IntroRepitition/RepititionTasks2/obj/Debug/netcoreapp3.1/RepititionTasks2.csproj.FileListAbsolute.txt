@@ -1,0 +1,13 @@
+D:\CoolStuff\Swinburne\FirstProg2\IntroRepitition\RepititionTasks2\bin\Debug\netcoreapp3.1\RepititionTasks2.exe
+D:\CoolStuff\Swinburne\FirstProg2\IntroRepitition\RepititionTasks2\bin\Debug\netcoreapp3.1\RepititionTasks2.deps.json
+D:\CoolStuff\Swinburne\FirstProg2\IntroRepitition\RepititionTasks2\bin\Debug\netcoreapp3.1\RepititionTasks2.runtimeconfig.json
+D:\CoolStuff\Swinburne\FirstProg2\IntroRepitition\RepititionTasks2\bin\Debug\netcoreapp3.1\RepititionTasks2.runtimeconfig.dev.json
+D:\CoolStuff\Swinburne\FirstProg2\IntroRepitition\RepititionTasks2\bin\Debug\netcoreapp3.1\RepititionTasks2.dll
+D:\CoolStuff\Swinburne\FirstProg2\IntroRepitition\RepititionTasks2\bin\Debug\netcoreapp3.1\RepititionTasks2.pdb
+D:\CoolStuff\Swinburne\FirstProg2\IntroRepitition\RepititionTasks2\obj\Debug\netcoreapp3.1\RepititionTasks2.csprojAssemblyReference.cache
+D:\CoolStuff\Swinburne\FirstProg2\IntroRepitition\RepititionTasks2\obj\Debug\netcoreapp3.1\RepititionTasks2.csproj.CoreCompileInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\IntroRepitition\RepititionTasks2\obj\Debug\netcoreapp3.1\RepititionTasks2.AssemblyInfoInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\IntroRepitition\RepititionTasks2\obj\Debug\netcoreapp3.1\RepititionTasks2.AssemblyInfo.cs
+D:\CoolStuff\Swinburne\FirstProg2\IntroRepitition\RepititionTasks2\obj\Debug\netcoreapp3.1\RepititionTasks2.dll
+D:\CoolStuff\Swinburne\FirstProg2\IntroRepitition\RepititionTasks2\obj\Debug\netcoreapp3.1\RepititionTasks2.pdb
+D:\CoolStuff\Swinburne\FirstProg2\IntroRepitition\RepititionTasks2\obj\Debug\netcoreapp3.1\RepititionTasks2.genruntimeconfig.cache

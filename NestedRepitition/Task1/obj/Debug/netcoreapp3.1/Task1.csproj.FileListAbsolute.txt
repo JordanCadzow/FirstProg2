@@ -1,0 +1,13 @@
+D:\CoolStuff\Swinburne\FirstProg2\NestedRepitition\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+D:\CoolStuff\Swinburne\FirstProg2\NestedRepitition\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+D:\CoolStuff\Swinburne\FirstProg2\NestedRepitition\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+D:\CoolStuff\Swinburne\FirstProg2\NestedRepitition\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+D:\CoolStuff\Swinburne\FirstProg2\NestedRepitition\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+D:\CoolStuff\Swinburne\FirstProg2\NestedRepitition\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+D:\CoolStuff\Swinburne\FirstProg2\NestedRepitition\Task1\obj\Debug\netcoreapp3.1\Task1.csprojAssemblyReference.cache
+D:\CoolStuff\Swinburne\FirstProg2\NestedRepitition\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\NestedRepitition\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\NestedRepitition\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+D:\CoolStuff\Swinburne\FirstProg2\NestedRepitition\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+D:\CoolStuff\Swinburne\FirstProg2\NestedRepitition\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+D:\CoolStuff\Swinburne\FirstProg2\NestedRepitition\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
