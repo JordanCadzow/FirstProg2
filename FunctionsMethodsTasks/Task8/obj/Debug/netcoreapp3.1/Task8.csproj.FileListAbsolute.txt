@@ -1,0 +1,13 @@
+D:\CoolStuff\Swinburne\FirstProg2\FunctionsMethodsTasks\Task8\obj\Debug\netcoreapp3.1\Task8.csprojAssemblyReference.cache
+D:\CoolStuff\Swinburne\FirstProg2\FunctionsMethodsTasks\Task8\obj\Debug\netcoreapp3.1\Task8.csproj.CoreCompileInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\FunctionsMethodsTasks\Task8\obj\Debug\netcoreapp3.1\Task8.AssemblyInfoInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\FunctionsMethodsTasks\Task8\obj\Debug\netcoreapp3.1\Task8.AssemblyInfo.cs
+D:\CoolStuff\Swinburne\FirstProg2\FunctionsMethodsTasks\Task8\bin\Debug\netcoreapp3.1\Task8.exe
+D:\CoolStuff\Swinburne\FirstProg2\FunctionsMethodsTasks\Task8\bin\Debug\netcoreapp3.1\Task8.deps.json
+D:\CoolStuff\Swinburne\FirstProg2\FunctionsMethodsTasks\Task8\bin\Debug\netcoreapp3.1\Task8.runtimeconfig.json
+D:\CoolStuff\Swinburne\FirstProg2\FunctionsMethodsTasks\Task8\bin\Debug\netcoreapp3.1\Task8.runtimeconfig.dev.json
+D:\CoolStuff\Swinburne\FirstProg2\FunctionsMethodsTasks\Task8\bin\Debug\netcoreapp3.1\Task8.dll
+D:\CoolStuff\Swinburne\FirstProg2\FunctionsMethodsTasks\Task8\bin\Debug\netcoreapp3.1\Task8.pdb
+D:\CoolStuff\Swinburne\FirstProg2\FunctionsMethodsTasks\Task8\obj\Debug\netcoreapp3.1\Task8.dll
+D:\CoolStuff\Swinburne\FirstProg2\FunctionsMethodsTasks\Task8\obj\Debug\netcoreapp3.1\Task8.pdb
+D:\CoolStuff\Swinburne\FirstProg2\FunctionsMethodsTasks\Task8\obj\Debug\netcoreapp3.1\Task8.genruntimeconfig.cache
