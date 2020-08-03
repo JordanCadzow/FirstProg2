@@ -1,0 +1,13 @@
+D:\CoolStuff\Swinburne\FirstProg2\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.exe
+D:\CoolStuff\Swinburne\FirstProg2\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.deps.json
+D:\CoolStuff\Swinburne\FirstProg2\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.runtimeconfig.json
+D:\CoolStuff\Swinburne\FirstProg2\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.runtimeconfig.dev.json
+D:\CoolStuff\Swinburne\FirstProg2\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.dll
+D:\CoolStuff\Swinburne\FirstProg2\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.pdb
+D:\CoolStuff\Swinburne\FirstProg2\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.csprojAssemblyReference.cache
+D:\CoolStuff\Swinburne\FirstProg2\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.csproj.CoreCompileInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.AssemblyInfoInputs.cache
+D:\CoolStuff\Swinburne\FirstProg2\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.AssemblyInfo.cs
+D:\CoolStuff\Swinburne\FirstProg2\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.dll
+D:\CoolStuff\Swinburne\FirstProg2\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.pdb
+D:\CoolStuff\Swinburne\FirstProg2\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.genruntimeconfig.cache
